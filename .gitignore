@@ -1,0 +1,7 @@
+data.json
+ai.json
+keywords.json
+.env
+accounts.db
+__pycache__
+.DS_Store

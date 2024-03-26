@@ -1,0 +1,9 @@
+instaloader
+twscrape
+facebook-scraper
+openai
+asyncio
+argparse
+python-dotenv
+pydantic
+requests
