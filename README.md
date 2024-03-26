@@ -1,6 +1,8 @@
 # AIPassYou (AI.PY)
 
-![alt text](https://raw.githubusercontent.com/SecurityAuditTeam/AIPassYou/master/logo.png)
+<img src="https://github.com/SecurityAuditTeam/AIPassYou/blob/main/logo.png?raw=true" height="256" width="256">
+
+# Summary
 
 The tool allows you to generate a dictionary of passwords based on data extracted from your social networks, including personalized information about hobbies, geographic location or language.
 
