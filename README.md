@@ -137,11 +137,11 @@ $ python3 AIPassYou.py --load-keywords keywords.json
 
 The user profile is properly filled most of the time, getting intermitent errors from chatGPT response. 
 
-For wordlist generation, it is using basic permutation rules, that generates dictionaries ** from 1M to 10M ** possible passwords.
+For wordlist generation, it is using basic permutation rules, that generates dictionaries **from 1M to 10M** possible passwords.
 
 It was tested against other well-known password dictionaries, such as rockyou.txt, by selecting some accounts disclosed in public breaches. The tools was executed against its social networks and checked if the password disclosed was included in the generated wordlist, obtaining the following results:
 
-- The password was correctly guessed for ** 40% of the accounts **.
+- The password was correctly guessed for **40% of the accounts**.
 - The traditional wordlists had a success rate of 10% using same accounts.
 - According to known password formats it was checked that the use of more advanced permutation rules, could increase rating to 62%.
 - Same permutation rules using rockyou.txt, will achieve 30% but requiring 10x times more words.
