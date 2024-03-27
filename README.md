@@ -153,6 +153,7 @@ It was tested against other well-known password dictionaries, such as rockyou.tx
 - AI fine tunning to avoid empty sections 
 - AI: Compatibility with ollama 
 - Wordlist generator complexity
+- Error handling
 
 
 ## Authors
