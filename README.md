@@ -44,7 +44,7 @@ The most important parameter to be configured is the **ChatGPT API Key**, that i
 ## Usage
 
 ```bash
-$ python3 mAIprogram.py -h
+$ python3 AIPassYou.py -h
 usage: mAIprogram [-i INSTAGRAM] [-t TWITTER] [-f FACEBOOK] [-l LINKEDIN] [--num-posts NPOST] [--temperature TEMPERATURE] [--model MODEL]
                   [--num-keywords NKEYWORDS] [-o OUTPUT] [--save-data SDATA] [--load-data LDATA] [--save-keywords SKEYWORDS] [-k KEYWORDS] [-d] [-h]
 
