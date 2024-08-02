@@ -43,7 +43,7 @@ class Instagram:
                 date = post.date,
                 content = post.caption
             ))
-            if post.location: self.data.locations.append(post.location.name)
+            #if post.location: self.data.locations.append(post.location.name)
             if post.caption_hashtags: self.data.hashtags += post.caption_hashtags
             
             limit-=1
